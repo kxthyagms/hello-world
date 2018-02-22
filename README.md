@@ -1,4 +1,4 @@
 # hello-world
-Step1. My First Github repository
-This is my step2 in branch. Added this line
+Step1. Created my My First Github repository
+This is my step2 in branch. Added step2 line.
 
