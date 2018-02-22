@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_ZA_LoBgFEeio9o80h9vrmQ" name="BI-SQL-DEV" id="_6wBukBgEEeio9o80h9vrmQ" label="BI-SQL-DEV" dataPackage="_ZKbbgBgFEeio9o80h9vrmQ" DatabaseType="Microsoft SQL Server" DriverClass="net.sourceforge.jtds.jdbc.Driver" URL="jdbc:jtds:sqlserver://bi-sql-dev.topgolfusa.com:1433/Topgolf_ODS;" dbVersionString="JTDS" Port="1433" Username="tgbi_id00" Password="/9SbH3FzoyldpKSK6FYG5g==" ServerName="bi-sql-dev.topgolfusa.com" DatasourceName="" FileFieldName="" SID="Topgolf_ODS" SqlSynthax="SQL Syntax" DbmsId="id_MSSQL" ProductId="SQL_SERVER" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_ZA_LoRgFEeio9o80h9vrmQ" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_ZCg1oBgFEeio9o80h9vrmQ" tag="package filter" value=""/>
+    <taggedValue xmi:id="_ZCnjUBgFEeio9o80h9vrmQ" tag="Status" value=""/>
+    <taggedValue xmi:id="_ZCnjURgFEeio9o80h9vrmQ" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_ZCnjUhgFEeio9o80h9vrmQ" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_ZCoKYBgFEeio9o80h9vrmQ" tag="Description" value=""/>
+    <taggedValue xmi:id="_ZCoKYRgFEeio9o80h9vrmQ" tag="Author" value=""/>
+    <taggedValue xmi:id="_ZCoKYhgFEeio9o80h9vrmQ" tag="otherParameter"/>
+    <taggedValue xmi:id="_ZGQGIBgFEeio9o80h9vrmQ" tag="DB ProductName" value="Microsoft SQL Server"/>
+    <taggedValue xmi:id="_ZGQGIRgFEeio9o80h9vrmQ" tag="DB ProductVersion" value="13.00.4001"/>
+    <taggedValue xmi:id="_ZGQGIhgFEeio9o80h9vrmQ" tag="DB IdentifierQuoteString" value="&quot;"/>
+    <parameters xmi:id="_ZA_LohgFEeio9o80h9vrmQ" key="CONN_PARA_KEY_USERNAME" value="tgbi_id00"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_ZKbbgBgFEeio9o80h9vrmQ" name="Topgolf_ODS" dataManager="_ZA_LoBgFEeio9o80h9vrmQ">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_ZKcCkBgFEeio9o80h9vrmQ" name="db_accessadmin"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_ZKcCkRgFEeio9o80h9vrmQ" name="db_backupoperator"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_ZKcCkhgFEeio9o80h9vrmQ" name="db_datareader"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_ZKcCkxgFEeio9o80h9vrmQ" name="db_datawriter"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_ZKcClBgFEeio9o80h9vrmQ" name="db_ddladmin"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_ZKcClRgFEeio9o80h9vrmQ" name="db_denydatareader"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_ZKcClhgFEeio9o80h9vrmQ" name="db_denydatawriter"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_ZKcClxgFEeio9o80h9vrmQ" name="db_owner"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_ZKcCmBgFEeio9o80h9vrmQ" name="db_securityadmin"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_ZKcCmRgFEeio9o80h9vrmQ" name="dbo"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_ZKcCmhgFEeio9o80h9vrmQ" name="guest"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_ZKcCmxgFEeio9o80h9vrmQ" name="INFORMATION_SCHEMA"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_ZKcCnBgFEeio9o80h9vrmQ" name="sys"/>
+  </orgomg.cwm.resource.relational:Catalog>
+</xmi:XMI>
