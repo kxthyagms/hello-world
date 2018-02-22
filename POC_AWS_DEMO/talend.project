@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_qesUcRgMEei8I8EpHzBamw" label="POC_AWS_DEMO" description="POC for AWS" language="java" technicalLabel="POC_AWS_DEMO" creationDate="2018-02-22T12:55:30.000-0600" author="_qesUchgMEei8I8EpHzBamw" productVersion="Talend Real-time Big Data Platform-6.3.1.20161216_1026" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/kxthyagms/hello-world&quot;,&quot;login&quot;:&quot;kxthyagms@github.com&quot;,&quot;passwd&quot;:&quot;vheZNIPc0I12VqK5hoShKA==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ"/>
+  <TalendProperties:User xmi:id="_qesUchgMEei8I8EpHzBamw" login="krishnamurthy_thyagarajan@topgolf.com" firstName="KrishnaTestFN" lastName="KrishnaTestLN" type="DQ" additionnalData="{}"/>
+</xmi:XMI>
